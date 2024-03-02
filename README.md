@@ -1,1 +1,2 @@
-Esto es una prueba de git y github
+Esto es un repositorio basico para aprender acerca de git y github
+
